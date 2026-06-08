@@ -1,2 +1,1 @@
-# curly-invention-PY
-daily task 1
+# daily tasks
